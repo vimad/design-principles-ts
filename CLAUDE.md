@@ -74,7 +74,7 @@ SOLID principles — working through them in order: SRP → OCP → LSP → ISP 
 | Principle | Status |
 |-----------|--------|
 | SRP — Single Responsibility | done |
-| OCP — Open/Closed | planned |
+| OCP — Open/Closed | done |
 | LSP — Liskov Substitution | planned |
 | ISP — Interface Segregation | planned |
 | DIP — Dependency Inversion | planned |
